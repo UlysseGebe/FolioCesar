@@ -1,18 +1,20 @@
 # PORTFOLIO 
 
 ## Instructions 
-
+This portfolio has a main page, with a list of the different categories. The user can click to discover each category, this click will lead him to a page on the different projects related to the category.
+There are 3 types of pages:
+* Home
+* Categorie
+* Contact
 
 ## Features
-* 
+* Templating
+* Rooting
+* Responsive
+* Header effect
 
 ## Inspirations
-
-
-@developed by Ulysse Geberowicz
-
-
-
+Designed with Adobe Portfolio by Cesar Caden and redesigned by Ulysse Geberowicz. Developed by Ulysse Geberowicz
 
 ### License
 The MIT License (MIT)
